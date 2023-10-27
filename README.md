@@ -139,7 +139,7 @@ You will see messages "Server run at port 6543" when you've accesd to [http://lo
   | 7. | Delete Announcement | DELETE | http://localhost:6543/announcements/id | \- | Must be Login first | admin |
   | 8. | Create Announcement | POST | http://localhost:6543/announcements | title, content | Must be Login first | admin |
   | 9. | Get All users | GET | http://localhost:6543/user | \- | Must be Login first | admin |
-  | 10. | Get User by Id | GET | http://localhost:6543/announcements/id | \- | Must be Login first | admin |
+  | 10. | Create new User | POST | http://localhost:6543/user/id | username, password, role (admin or user) | Must be Login first | admin |
 
 ## Result
 
