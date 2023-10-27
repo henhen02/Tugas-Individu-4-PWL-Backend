@@ -14,7 +14,7 @@ Make sure that you follow all the steps listed below.
 ### 1. Copy this repository
 
 ```
-git clone https://github.com/henhen02/Tugas-Individu-4-PWL.git
+git clone https://github.com/henhen02/Tugas-Individu-4-PWL-Backend.git
 ```
 
 The above command will copy this repository into your computer. Wait until the clone process is finished.
@@ -22,7 +22,7 @@ The above command will copy this repository into your computer. Wait until the c
 ### 2. Change to app directory
 
 ```
-cd Tugas-Individu-4-PWL
+cd Tugas-Individu-4-PWL-Backend
 ```
 
 You will be directed to the app directory using the command above.
