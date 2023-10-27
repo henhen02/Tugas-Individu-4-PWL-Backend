@@ -44,7 +44,7 @@ env\Scripts\activate
 The virtual environment will be activated, marked by the appearance of the virtual directory name on your terminal, for example you will see in your terminal:
 
 ```
-(env) C:\Tugas-Individu-4-PWL>
+(env) C:\Tugas-Individu-4-PWL-Backend>
 ```
 
 ### 5. Installing dependencies
