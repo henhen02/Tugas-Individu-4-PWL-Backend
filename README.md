@@ -136,7 +136,7 @@ You will see messages "Server run at port 6543" when you've accesd to [http://lo
   | 4. | Get All Announcements | GET | http://localhost:6543/announcements | \- | Must be Login first | all |
   | 5. | Get Announcement by Id | GET | http://localhost:6543/announcements/id | \- | Must be Login first | all |
   | 6. | Update Announcement | PUT | http://localhost:6543/announcements/id | title, content | Must be Login first | admin |
-  | 7. | Delete Announcement | DELETE | http://localhost:6543/announcements/id | \- | Must be Login first | all |
+  | 7. | Delete Announcement | DELETE | http://localhost:6543/announcements/id | \- | Must be Login first | admin |
   | 8. | Create Announcement | POST | http://localhost:6543/announcements | title, content | Must be Login first | admin |
   | 9. | Get All users | GET | http://localhost:6543/user | \- | Must be Login first | admin |
   | 10. | Get User by Id | GET | http://localhost:6543/announcements/id | \- | Must be Login first | admin |
