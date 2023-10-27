@@ -14,7 +14,7 @@ Make sure that you follow all the steps listed below.
 ### 1. Copy this repository
 
 ```
-git clone
+git clone https://github.com/henhen02/Tugas-Individu-4-PWL.git
 ```
 
 The above command will copy this repository into your computer. Wait until the clone process is finished.
@@ -22,7 +22,7 @@ The above command will copy this repository into your computer. Wait until the c
 ### 2. Change to app directory
 
 ```
-cd
+cd Tugas-Individu-4-PWL
 ```
 
 You will be directed to the app directory using the command above.
@@ -44,7 +44,7 @@ env\Scripts\activate
 The virtual environment will be activated, marked by the appearance of the virtual directory name on your terminal, for example you will see in your terminal:
 
 ```
-(env) C:\app_directories>
+(env) C:\Tugas-Individu-4-PWL>
 ```
 
 ### 5. Installing dependencies
